@@ -4,6 +4,8 @@
 
 ![AirNote 桌面端界面预览（冰晶晨露主题）](./docs/assets/preview-desktop.png)
 
+![AirNote 移动端界面预览（笔记本 · 分区 · 沉浸编辑）](./docs/assets/preview-mobile.png)
+
 完整设计规格与交互原型位于 [docs/README.md](./docs/README.md)。
 
 ---
