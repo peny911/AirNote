@@ -2,6 +2,8 @@
 
 > 轻盈、私密、现代的个人与受邀小团队网页版网络记事本（类 OneNote 三级结构 + 液态琉璃双主题 + 自选 2FA + 严格用户数据隔离）。
 
+![AirNote 桌面端界面预览（冰晶晨露主题）](./docs/assets/preview-desktop.png)
+
 完整设计规格与交互原型位于 [docs/README.md](./docs/README.md)。
 
 ---
