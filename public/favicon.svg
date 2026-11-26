@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="crystal-bg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+    <radialGradient id="crystal-sheen" cx="22%" cy="14%" r="65%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.42" />
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="crystal-rim" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.62" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#bae6fd" stop-opacity="0.4" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#crystal-bg)" />
+  <rect width="64" height="64" rx="16" fill="url(#crystal-sheen)" />
+  <rect x="1" y="1" width="62" height="62" rx="15" stroke="url(#crystal-rim)" stroke-width="1.5" />
+  <g transform="translate(8.4 8.8) scale(1.95)">
+    <path
+      d="M21 4L3 11.2l6.8 2.6L19.8 5.4l-7.4 10.2V20l3.4-3.1 4.2 1.8L21 4Z"
+      fill="#ffffff"
+      fill-opacity="0.16"
+      stroke="#ffffff"
+      stroke-width="2.1"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+  </g>
+</svg>

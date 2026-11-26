@@ -1,0 +1,12 @@
+.git
+.DS_Store
+node_modules
+dist
+data
+deploy
+docs
+tests
+.env
+.env.local
+coverage
+*.log
